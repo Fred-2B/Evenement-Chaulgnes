@@ -174,7 +174,7 @@ header {
     font-family: 'Courgette', cursive;
     font-size: .9rem;
     position: absolute;
-    top: 820px;
+    top: 790px;
     margin: 0 auto;
    
 }
@@ -282,7 +282,7 @@ iframe {
         font-size: 1.5rem;
     }
     #home .traduc {
-        top: 820px;
+        top: 780px;
     }
     .portrait h4 {
         font-size: 1.5rem;
