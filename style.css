@@ -14,7 +14,7 @@
 main {
     height: 100vh;
     background-color: #000;
-    background-image: url(img/chaulgnes.JPG);
+    background-image: url(img/chaulgnes.png);
     background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -181,7 +181,7 @@ header {
 
 #home p {
     font-family: 'Courgette', cursive;
-    font-size: 2rem;
+    font-size: 2.4rem;
     text-shadow: 0 0 0.3em #000, 0 0 0.3em #000,
     0 0 0.3em #000, 
     -1px 0 #000, 0 1px #000,
@@ -235,6 +235,7 @@ header {
     /* Date */
 .date {
     background-color: #e4e4e4;
+    padding-bottom: 50px;
 }
 
 .container__gif {
@@ -253,7 +254,9 @@ header {
 
 .container__gif .gif img {
     width: 100%;
-    border-radius: .5rem;
+    border-radius: 1rem;
+    border: 1px solid darkorange;
+    box-shadow: rgba(0, 0, 0, 0.9) 0px 20px 90px;
 }
 
 .container__gif .new__date {
@@ -266,6 +269,12 @@ header {
     font-family: 'Satisfy', cursive;
     font-size: 3rem;
     color: #575555;
+}
+
+    /* Agapes */
+.agapes {
+    background-color: #e4e4e4;
+    padding-bottom: 50px;
 }
 
     /* Contact */
